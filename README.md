@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Esther M. Quintero</h1>
 <h3 align="center">Escribe código como si la persona fuera a mantenerlo supiera dónde vives.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esthermedinaquintero" alt="esthermedinaquintero" /></a> </p>
-
 - 🔭 Ahora mismo estoy trabajando en **Odyssey**
 
 - 🌱 Estoy aprendiendo a usar **Unity**
