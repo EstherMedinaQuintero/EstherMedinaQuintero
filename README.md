@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Esther M. Quintero</h1>
-<h3 align="center">Escribe código como si la persona fuera a mantenerlo supiera dónde vives.</h3>
+<h3 align="center">Escribe código como si la persona que fuera a mantenerlo supiera dónde vives.</h3>
 
 - 🔭 Ahora mismo estoy trabajando en **Odyssey**
 
